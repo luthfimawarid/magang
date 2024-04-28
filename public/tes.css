@@ -1,0 +1,99 @@
+*{
+    font-family: raleway;
+}
+
+.utama{
+    display: flex;
+    justify-content: space-between;
+    margin:2rem auto;
+    /* padding: 2rem; */
+    background-color: #e4e4e4;
+    /* height: 35rem; */
+    width: 67%;
+    border-radius: 1%;
+}
+
+.kiri{
+    display: flex;
+    justify-content: space-between;
+    /* margin-left: 2rem; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.menu{
+    margin-left: 10px;
+}
+
+.card-title{
+    font-size: 17.5px;
+}
+
+.kat{
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+    margin-right: 35px;
+    gap: 5px;
+}
+
+.kanan{
+    background: #cdced6;
+    align-items: center;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+
+.pri,
+.cus{
+    font-size: 10px;
+}
+
+.teks{
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    font-size: 18px;
+}
+
+.profil{
+    color: #002bb9;
+    background: #9fa7c4;
+    padding-right: 8.5px;
+    padding-left: 8.5px;
+}
+
+.pricelist{
+    color: #002bb9;
+    background: #9fa7c4;
+    padding-right: 8.5px;
+    padding-left: 8.5px;
+}
+
+.bill{
+    width: 18rem;
+    text-align: center;
+    /* height: 22rem; */
+    background: white;
+    padding-bottom: 2px;
+}
+
+.clear p{
+    font-size: medium;
+}
+
+.kembali{
+    width: 18rem;
+    text-align: center;
+    /* height: 5rem; */
+    /* margin-right: 2rem; */
+    border-radius: 2%;
+}
+
+.charge{
+    background: #002788;
+}
+
+.dine p{
+    font-size: 15px;
+}
